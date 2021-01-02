@@ -1,0 +1,26 @@
+{
+  "name": "mapbox-gl-mouseposition-control",
+  "version": "0.0.1",
+  "description": "Mapbox GL - MousePosition Control",
+  "main": "src/mouse-position.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/mapbox-gl-mouseposition-control.git"
+  },
+  "keywords": [
+    "mapbox",
+    "gl",
+    "mouse",
+    "position",
+    "control"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/mapbox-gl-mouseposition-control/issues"
+  },
+  "homepage": "https://github.com/ardhi/mapbox-gl-mouseposition-control#readme"
+}

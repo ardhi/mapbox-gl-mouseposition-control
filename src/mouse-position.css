@@ -1,0 +1,10 @@
+.mapboxgl-ctrl-mouse-position {
+  padding: 0 5px;
+  background-color: hsla(0,0%,100%,.75);
+  margin: 0;
+  border: 2px solid #333;
+}
+
+.body--dark .mapboxgl-ctrl-mouse-position {
+  background-color: rgba(0, 0, 0, 0.5);
+}
